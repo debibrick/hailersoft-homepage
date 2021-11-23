@@ -1,0 +1,166 @@
+{
+  "Header": {
+    "title": "배움과 함께하는 삶을 만듭니다",
+    "paragraph": "We try to create a life with learning."
+  },
+  "About": {
+    "paragraph": "우리의 삶 곁에 존재하는 배움을 자연스럽게 쌓아갈수 있도록 만들며, IT 기술을 통한 사람 간의 연결과 지식 공유를 서포트합니다.  고객들이 스스로의 삶을 더 가치있게 만드는 것을 헤일러소프트가 함께합니다.",
+    "Why": [
+      "각분야 5년 이상의 전문가들",
+      "고객 경험 중심",
+      "데이터 기반의 목표 설정과 성취"
+    ],
+    "Why2": [
+      "개발자 주도적 개선 프로세스",
+      "끊임없는 성장",
+      "함께 만드는 미래"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "최고의 전문가",
+      "text": "다양한 전문지식을 가지고 있는 전문가들이 헤일러소프트에 포함되어 있습니다. 발빠른 IT의 트렌드를 따라갈 수 있는 개발전문가와 전문인력들이 헤일러소프트와 함께합니다"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "고객의 성장",
+      "text": "새로운 방식의 교육 서비스를 제공하여 다양한 이용자가 누구나 손쉽게 서비스를 이용할 수 있도록 도움을 주기 위하여 나아갑니다."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "데이터 기반 의사결정",
+      "text": "데이터 기반 의사결정을 통해 누구나 전문가가 될수 있고 누구나 의견을 제시할수 있습니다. 헤일러소프트는 그로스해킹 기반의 의사결정으로 고객을 도와주며 새로운 서비스를 탐구해나갑니다."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "최진우",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "박성아",
+      "job": "Senior Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "엄승탁",
+      "job": "Front Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "유남규",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "서울특별시 성동구 마장로42길 2(마장동) 301호",
+    "email": "info@hailersoft.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
